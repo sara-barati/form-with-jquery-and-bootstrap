@@ -1,0 +1,27 @@
+ thead tr{
+    background-color: #5cb85c;
+    height: 50px;
+   margin-top: 0px;
+   color: white;
+   text-align: l;
+   border-right: solid 1.5px rgb(228, 225, 228);
+}
+#but-add{
+    margin-bottom: 10px;
+}
+.btn-primary{
+    margin-left: 5px;
+}
+/* tbody th{
+    border-right:solid 1.5px rgb(228, 225, 228);
+}
+table{
+    border-bottom:solid 1.5px rgb(228, 225, 228);
+}
+#but-add{
+    margin-bottom: 10px;
+}
+.chek label{
+    margin-right: 20px;
+   
+} */
